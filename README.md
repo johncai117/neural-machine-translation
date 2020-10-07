@@ -13,6 +13,6 @@ For the neural machine translation model, I train it for 49 epochs, and achieve 
 
 The results are reported below.
 
-![alt text](bleu.png)
+<img src="./bleu.png" alt="drawing" width="700"/>
 
 
