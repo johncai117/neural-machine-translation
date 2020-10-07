@@ -11,11 +11,15 @@ For the neural machine translation model, I train it for 49 epochs, and achieve 
 
 <img src="./log_perplex.png" alt="drawing" width="600"/>
 
-
 The results are reported below.
 
 <img src="./bleu.png" alt="drawing" width="600"/>
 
 
+In order to run the repo and reproduce the results, first run the sanity_check.py file using:
 
+```
+python3 sanity_check.py
+```
 
+Afterwards, run the main.py file.
