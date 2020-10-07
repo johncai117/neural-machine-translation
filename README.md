@@ -7,12 +7,12 @@ In this project, we aim to obtain a good BLEU score, by implementing an encoder-
 
 For the neural machine translation model, I train it for 49 epochs, and achieve the following log perplexities on the test and dev set.
 
-<img src="./log_perplex.png" alt="drawing" width="700"/>
+<img src="./log_perplex.png" alt="drawing" width="600"/>
 
 
 
 The results are reported below.
 
-<img src="./bleu.png" alt="drawing" width="700"/>
+<img src="./bleu.png" alt="drawing" width="600"/>
 
 
